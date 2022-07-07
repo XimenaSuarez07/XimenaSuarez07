@@ -1,5 +1,5 @@
 Hola mi nombre es Ximena Suárez
-Estoy estudiando el curso de fundamentis de programación web
+Estoy estudiando el curso de fundamentos de programación web
 
 <!--
 **XimenaSuarez07/XimenaSuarez07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
